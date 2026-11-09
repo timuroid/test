@@ -1,0 +1,4 @@
+interface:
+  display_name: "Презентации · академический синий"
+  short_description: "Презентации по бело-синей системе из PDF-образца"
+  default_prompt: "Используй $academic-blue-slides, чтобы создать презентацию по моей теме в стиле PDF-образца."
