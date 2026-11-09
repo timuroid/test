@@ -16,7 +16,6 @@ def main() -> None:
     resources = {
         'FONT_REGULAR': 'fonts/Inter-Regular.ttf',
         'FONT_BOLD': 'fonts/Inter-Bold.ttf',
-        'CREST_BLUE': 'crest-blue-watermark.png',
         'CREST_WHITE': 'crest-white-watermark.png',
     }
     for token, name in resources.items():
